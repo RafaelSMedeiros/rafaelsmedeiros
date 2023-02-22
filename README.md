@@ -21,8 +21,8 @@
   ![Github stats](https://github-readme-stats.vercel.app/api?username=RafaelSMedeiros&show_icons=true&count_private=true&hide=contribs,issues)
 </div>
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/rafaelsmedeiros">
-    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=rafaelsmedeiros.rafaelsmedeiro&style=for-the-badge" />
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=rafaelsmedeiros.rafaelsmedeiro&style=for-the-badge&theme=dark" />
   </a>
 </div>
