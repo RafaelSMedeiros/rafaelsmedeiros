@@ -18,11 +18,11 @@
 
   <h4>Here are my Github stats:</h4>
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=RafaelSMedeiros&show_icons=true&count_private=true&hide=contribs,issues)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=rafaelsmedeiros&show_icons=true&theme=dark,issues)
 </div>
 
 <div align="right">
   <a href="https://github.com/rafaelsmedeiros">
-    <img alt="Visitors" src="https://github-readme-stats.vercel.app/api?username=rafaelsmedeiros&show_icons=true&theme=dark" />
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=rafaelsmedeiros.rafaelsmedeiros&style=for-the-badge" />
   </a>
 </div>
