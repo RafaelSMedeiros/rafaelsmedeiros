@@ -1,12 +1,12 @@
-<h1 align='center'>👋 Hey, i'm Rafael</h1>
-
-<p align='center'>I am currently a Computer Engineering student at the Federal University of São Paulo.</p>
-
-<hr>
-
 <div align="center">
+  <h1>👋 Hey, i'm Rafael</h1>
+  <p>I am a Computer Engineering undergraduate at the Federal University of São Paulo.</p>
+
+  <hr>
+  
+  <h2>MY CURRENT TECHNOLOGY STACK</h2>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">  </a>
+  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">   </a>
   <a href="https://devdocs.io/c/"><img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML"></a>
@@ -15,8 +15,9 @@
   <a><img src="https://img.shields.io/badge/-Verilog-000000?style=for-the-badge&logo=xilinx&logoColor=white" alt="Verilog"></a>
 </div>
   
-<hr>
+  <hr>
 
-<h4>Here are my Github stats:</h4>
+  <h4>Here are my Github stats:</h4>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=RafaelSMedeiros&show_icons=true&count_private=true&hide=contribs,issues)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=RafaelSMedeiros&show_icons=true&count_private=true&hide=contribs,issues)
+  </div>
