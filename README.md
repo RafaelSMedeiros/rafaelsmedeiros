@@ -18,7 +18,7 @@
 
   <h4>Here are my Github stats:</h4>
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=rafaelsmedeiros&show_icons=true&theme=dark,issues)
+  <img alt=GithubStats" src="https://github-readme-stats.vercel.app/api?username=rafaelsmedeiros&show_icons=true&theme=dark"/>
 </div>
 
 <div align="right">
