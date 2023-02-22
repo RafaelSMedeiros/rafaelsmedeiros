@@ -19,8 +19,8 @@
   <h4>Here are my Github stats:</h4>
 
   <a href="https://github.com/rafaelsmedeiros">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelsmedeiros&show_icons=true&theme=dark"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsmedeiros&show_icons=true&theme=dark"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=rafaelsmedeiros&show_icons=true&theme=dark"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsmedeiros&show_icons=true&theme=dark"/>
   </a>
 </div>
 
