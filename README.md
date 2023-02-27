@@ -24,6 +24,8 @@
   </a>
 </div>
 
+<br>
+
 <div align="right">
   <a href="https://github.com/rafaelsmedeiros">
     <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=rafaelsmedeiros.rafaelsmedeiros&style=for-the-badge" />
