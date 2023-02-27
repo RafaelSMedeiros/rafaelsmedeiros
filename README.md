@@ -13,6 +13,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"     alt="CSS"></a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
   <a><img src="https://img.shields.io/badge/-Verilog-000000?style=for-the-badge&logo=xilinx&logoColor=white" alt="Verilog"></a>
+  <a href="https://www.r-project.org"><img src="https://img.shields.io/badge/-R-blue?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
   
   <hr>
 
